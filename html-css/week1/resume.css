@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    background:url(background.jpg) no-repeat fixed;
+    background-size: cover;
+    font-style:oblique;
+    font-family: console;
+}
+.title{
+   font-size: 140% ;   
+}
+
+.Panel {
+    display: block;
+    background: url(backgroundeffect.jpg) no-repeat fixed;
+    background-size: cover;
+    box-shadow: 5px 2px 12px black;
+    margin: 3%;
+    }
+
+.row{
+    font-size: 140%;
+}
+
+#Kefalida{
+    font-weight: bold;
+    background: url(backgroundeffect.jpg) no-repeat fixed;
+    background-size: cover;
+    box-shadow: 5px 2px 12px black;
+    margin: 3%;
+    padding: 1%;
+    
+   
+}
+
+#profileimage{
+    min-width: 50%;
+    height: auto;
+    padding: 4%;
+    box-shadow: 5px 2px 12px black;
+}
+
+#sInfoPanel{
+    background: url(backgroundeffect.jpg) no-repeat fixed;
+    
+    
+}
+
+table{
+    background-color:RGBA(255,255,255,0.20);
+    padding: 5%;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 5px 2px 12px black;
+   
+}
+
+td{
+    padding: 2%;
+    border: 2px solid black;
+}
+
+ul, p{
+    width: 100%;
+    background-color:RGBA(255,255,255,0.20);
+    box-shadow: 5px 2px 12px black;
+}
